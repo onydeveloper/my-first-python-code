@@ -2,4 +2,3 @@ Lead Developer : Dionysius Malle
 Senior Developer : Gary
 Junior Developer : Tapo
 Internship Developer : Ojo Lali
-Done.
